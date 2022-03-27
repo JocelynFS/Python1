@@ -1,2 +1,2 @@
 # Python1
-Python 1: Función que suma dos números
+Python 1: Función que suma dos números enteros.
